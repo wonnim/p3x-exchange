@@ -3,18 +3,18 @@
   "name": "Get P3X",
   "icons": [
     {
-      "src": "/android-chrome-384x384.png",
+      "src": "/p3x-exchange/android-chrome-384x384.png",
       "sizes": "384x384",
       "type": "image/png"
     },
     {
-      "src": "/android-chrome-192x192.png",
+      "src": "/p3x-exchange/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     }
   ],
   "theme_color": "#ffffff",
-  "start_url": "/",
+  "start_url": "/p3x-exchange/",
   "background_color": "#ffffff",
   "display": "standalone"
 }

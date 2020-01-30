@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "9887d87127645e6ac61f",
+    "revision": "9745f44b62a1f79c7175",
     "url": "/p3x-exchange/static/css/main.b58ad3e1.chunk.css"
   },
   {
-    "revision": "9887d87127645e6ac61f",
-    "url": "/p3x-exchange/static/js/main.9887d871.chunk.js"
+    "revision": "9745f44b62a1f79c7175",
+    "url": "/p3x-exchange/static/js/main.9745f44b.chunk.js"
   },
   {
     "revision": "5ca02831250ac8f1e5f7",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/p3x-exchange/static/js/runtime~main.ff24ed98.js"
   },
   {
-    "revision": "ca8f42e8668a23492d169bc1c29f85e5",
+    "revision": "d939edbf08d1b0fd4d3ae4940f671e70",
     "url": "/p3x-exchange/index.html"
   }
 ];

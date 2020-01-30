@@ -1,7 +1,7 @@
 {
   "main.css": "/p3x-exchange/static/css/main.b58ad3e1.chunk.css",
-  "main.js": "/p3x-exchange/static/js/main.9887d871.chunk.js",
-  "main.js.map": "/p3x-exchange/static/js/main.9887d871.chunk.js.map",
+  "main.js": "/p3x-exchange/static/js/main.9745f44b.chunk.js",
+  "main.js.map": "/p3x-exchange/static/js/main.9745f44b.chunk.js.map",
   "static/css/1.1a0d1054.chunk.css": "/p3x-exchange/static/css/1.1a0d1054.chunk.css",
   "static/js/1.5ca02831.chunk.js": "/p3x-exchange/static/js/1.5ca02831.chunk.js",
   "static/js/1.5ca02831.chunk.js.map": "/p3x-exchange/static/js/1.5ca02831.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/1.1a0d1054.chunk.css.map": "/p3x-exchange/static/css/1.1a0d1054.chunk.css.map",
   "static/css/main.b58ad3e1.chunk.css.map": "/p3x-exchange/static/css/main.b58ad3e1.chunk.css.map",
   "index.html": "/p3x-exchange/index.html",
-  "precache-manifest.440276b7457b139e855e5cd355cbcf25.js": "/p3x-exchange/precache-manifest.440276b7457b139e855e5cd355cbcf25.js",
+  "precache-manifest.e3bc495b2039eb3b5e3b4f5eb47e546f.js": "/p3x-exchange/precache-manifest.e3bc495b2039eb3b5e3b4f5eb47e546f.js",
   "service-worker.js": "/p3x-exchange/service-worker.js"
 }
